@@ -1,0 +1,4 @@
+langchain
+langchain-openai  # Or langchain if you are using an older version
+streamlit
+python-dotenv
